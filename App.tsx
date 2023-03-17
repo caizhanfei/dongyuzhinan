@@ -6,11 +6,6 @@ export default function App() {
   return (
     <React.Fragment>
       <FrontFace />
-      <div>
-        <Column>
-          <span>あ</span>いうえ<span>zu</span>お
-        </Column>
-      </div>
     </React.Fragment>
   );
 }
